@@ -1,0 +1,6 @@
+name = "url-monitor"
+main = "index.js"
+
+
+[triggers]
+crons = ["45 * * * *"]  # 每天8点
